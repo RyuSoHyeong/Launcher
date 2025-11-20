@@ -1,17 +1,17 @@
 {
-  "version": "0.9.2",
-  "build_date": "2025-11-15",
+  "version": "0.9.3",
+  "build_date": "2025-11-20",
   "files": {
     "Launcher.exe": {
       "url": "https://github.com/RyuSoHyeong/Launcher/raw/main/Launcher.exe",
-      "size": 49052280,
-      "hash": "4B6056100B65851807550282C0D4F20B8231A10BF74783B8F04603B9575CD44D",
+      "size": 49054328,
+      "hash": "BA3E2AAC6EC701CCC7FB7D134101512F0AD2443091C1E628DBBA6410CF9DAE50",
       "required": true,
-      "last_modified": "2025-11-15"
+      "last_modified": "2025-11-20"
     }
   },
-  "total_size": 49052280,
-  "download_size": 49052280,
-  "changelog": "• Критические исправления работы с интерфейсом\n• Выполнена очистка и оптимизация кода\n• Снижен размер лаунчера",
+  "total_size": 49054328,
+  "download_size": 49054328,
+  "changelog": "• Обновление проекта: показ размера обновления\n• Мелкие исправления",
   "executable": "Launcher.exe"
 }

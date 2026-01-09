@@ -12,6 +12,9 @@
   },
   "total_size": 49054328,
   "download_size": 49054328,
-  "changelog": "• Обновление проекта: показ размера обновления\n• Мелкие исправления",
+  "changelog": {
+    "en": "• Project update: update size display\n• Minor fixes and improvements",
+    "ru": "• Обновление проекта: показ размера обновления\n• Мелкие исправления"
+  },
   "executable": "Launcher.exe"
 }
